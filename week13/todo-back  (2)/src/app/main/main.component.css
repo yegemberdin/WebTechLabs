@@ -1,0 +1,39 @@
+.taskLists {
+  text-align: center;
+}
+.create {
+  text-align: center;
+}
+button {
+  border-radius: 2px;
+  border: none;
+  width: 100px;
+  height: 26px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  font-size: 25px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+input {
+  border-radius: 5px;
+  width: 200px;
+  height: 25px;
+  border: none;
+  text-align: center;
+}
+.tasks {
+  color: #66e54f;
+  text-align: center;
+  font-size: 12px;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+body {
+  background-color: #051103;
+}
